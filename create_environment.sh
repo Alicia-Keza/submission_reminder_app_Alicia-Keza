@@ -1,7 +1,5 @@
 #!/usr/bin/bash
-# This script creates a Python virtual environment and installs r
 
-#equired packages.
 read  -p"Enter your name:" my_name
 mkdir -p submission_reminder_$my_name
 
